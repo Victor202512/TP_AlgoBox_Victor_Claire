@@ -13,9 +13,9 @@ Chaque fichier .alg du projet réalise une fonction différente.
 - fichierpourGitHub.alg par Claire Monnier. Cet algorithme calcule le produit de deux nombres (b=2*a) avec a = 1.
 
 ## Comment ouvrir et exécuter
-1. Cloner le dépôt avec l'URL, dans le dossier local, dans le terminal.
-2. Ouvrir Algobox.
-3. Récupérer le fichier .alg contenu dans le dossier local que vous voulez exécuter.
+1. Créer un dossier Local dans votre ordinateur.
+2. Cloner le dépôt avec l'URL depuis le terminal. Il faut être dans le dossier local quand on écrit dans le terminal.
+3. Ouvrir le fichier .alg de votre choix contenu dans le dossier local qui est apparu avec le clonage.
 4. Suivre les instructions demandées par l’algorithme.
 4. Lire le résultat à l’écran.
 
