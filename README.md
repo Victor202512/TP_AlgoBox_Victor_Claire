@@ -15,7 +15,7 @@ Chaque fichier .alg du projet réalise une fonction différente.
 ## Comment ouvrir et exécuter
 1. Créer un dossier local dans votre ordinateur.
 2. Cloner le dépôt avec l'URL depuis le terminal. Il faut être dans le dossier local quand on écrit dans le terminal.
-3. Ouvrir le fichier .alg de votre choix contenu dans le dossier local qui est apparu avec le clonage.
+3. Ouvrir le fichier .alg (ouvrir avec Algobox) de votre choix contenu dans le dossier local qui est apparu avec le clonage.
 4. Suivre les instructions demandées par l’algorithme.
 4. Lire le résultat à l’écran.
 
